@@ -1,6 +1,5 @@
-## Hi sigmas
-
-- Im lowkey learning how to code in C# and python, mostly python rn
-- Im very cool
-- I like this monkey game called gorilla tag
-- Modding games is cool
+# Hi
+- im learning python, html and javascript
+- im pretty cool sometimes
+- i like vr its pretty cool
+- idk
