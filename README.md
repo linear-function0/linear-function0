@@ -1,6 +1,4 @@
-# hi
-- im pretty cool
-- i do coding sometimes maybe i think
-- i like virtual reality
-- lowkey keep forgetting about github
+# hello
+- im actually horrible at coding AND learning how to code or whatever
+- 
 
